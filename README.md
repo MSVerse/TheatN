@@ -5,6 +5,8 @@ sebuah mini shell uji coba dengan fitur biasa saja dan tampilan yang berantakan
 # Info 
 ```
 author: msverse
+type: shell backdoor
+version: 1.0.0
 date: 2024-5-22
 homepage: https://msversee.blogspot.com
 reference: indoxploit, indosec, marijuana & mini shell
